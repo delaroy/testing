@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="empty_widget_list" >No Ingredient Information Available</string>
+    <string name="ingredients_title_text"> Ingredients</string>
+    <string name="sample_step_count">Step 1</string>
+    <string name="ingredient_of">Ingredients of %1$s</string>
+    <string name="recipes">Recipes</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="step_count">Step %1$d</string>
+    <string name="description">Description</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+</resources>
